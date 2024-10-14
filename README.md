@@ -27,12 +27,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
-- Live Site URL: [My Solution](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## Meu Processo
+## My process
 
-### Feito com
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -40,13 +40,18 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS Grid
 - Mobile-first workflow
 
-### O que aprendi?
+### What I learned
 
 Aprendi a utilizar o grid para estruturar colunas e linhas com os valores justificado a esquerda. Parte em "Nutrition"
 
-## Autor
+### Continued development
 
-- Frontend Mentor - [@CordeiroLucas](https://www.frontendmentor.io/profile/CordeiroLucas)
+Falta:
+- Tornar o site responsivo
+
+## Author
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Linkedin - [@lucasc-pacheco](https://www.linkedin.com/in/lucasc-pacheco/)
 
 ## Acknowledgments
