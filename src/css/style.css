@@ -1,0 +1,161 @@
+
+
+body {
+    background-color: hsl(30, 54%, 90%);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    background-color: hsl(0, 0%, 100%);
+    min-width: 35%;
+    max-width: 50%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    padding: 3%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+
+    border-radius: 20px;
+}
+
+.header-main {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.header-main img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.header-main h1 {
+    margin-bottom: 16px;
+}
+
+.header-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+
+    margin: 30px 0 0;
+    padding: 10px 30px;
+
+    border-radius: 10px;
+    background-color: hsla(332, 51%, 32%, 0.05);
+}
+
+.header-details h3 {
+    color: hsl(332, 51%, 32%);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.header-details ul {
+    font-size: 14px;
+}
+
+.header-details ul li {
+    list-style: disc;
+    list-style-position: inside;
+}
+
+.header-details ul li::marker {
+    color: hsl(332, 51%, 32%);
+}
+
+.ingredients {
+    width: 100%;
+    padding-bottom: 16px;
+}
+
+.ingredients ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.ingredients ul li {
+    list-style: disc;
+    list-style-position: inside;
+}
+
+.ingredients li::marker {
+    color: hsl(14, 45%, 36%);
+}
+
+.instructions {
+    padding: 16px 0;
+    border-bottom: 1px solid rgba(90, 90, 90, 0.4);
+    border-top: 1px solid rgba(90, 90, 90, 0.4);
+}
+
+.instructions ol {
+    margin: 0 30px;
+}
+
+.instructions li {
+    list-style: decimal;
+}
+
+.instructions li::marker {
+    gap: 10px;
+    color: hsl(14, 45%, 36%);
+    font-weight: 800;
+}
+
+.nutrition {
+    margin: 16px 0 0;
+}
+
+.nutrition h2 {
+    margin-bottom: 16px;
+}
+
+.nutrition-table {
+    display: flex;
+    flex-direction: column;
+}
+
+.nutrition-table li{   
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    border-bottom: 1px solid rgba(90, 90, 90, 0.4);
+}
+
+.nutrition-table .nome {
+    margin-left: 30px;
+}
+
+.nutrition-table .valor {
+    color: hsl(14, 45%, 36%);
+    font-weight: 800;
+    text-align: left;
+    padding-right: 30%;
+}
+
+li {
+    margin: 16px 0;
+}
+
+strong {
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+h1, h2, h3 {
+    font-family: 'Young Serif';
+    font-weight: 400;
+}
+
+h2 {
+    color: hsl(14, 45%, 36%)
+}
