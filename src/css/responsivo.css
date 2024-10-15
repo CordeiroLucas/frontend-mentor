@@ -1,0 +1,13 @@
+@media (max-width:500px){
+    main {
+        max-width: 100%;
+        margin: 0;
+        padding: 0 30px;
+    }
+
+    .header-main img {
+        border-radius: 0;
+        margin: 0 -30px 30px;
+        width: 120%;
+    }
+}
