@@ -5,8 +5,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Website](#website)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -18,10 +17,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
-### Screenshot
+### Website
 
-![](./screenshot.jpg)
-
+<a href="https://cordeirolucas.github.io/recipe-page/" target="_blank" rel="noreferrer noopener">Recipe Page</a>
 
 ### Links
 
